@@ -9,4 +9,4 @@ for the people who wanna automate installing modlist on wabbajack
 | `tkinter`            | Creates the graphical user interface (GUI) for the app.                 |
 | `tkinter.filedialog` | Opens file selection dialogs for choosing images.                       |
 | `tkinter.messagebox` | Displays error messages in pop-up windows.                              |
- MAKE SURE ALL THE PNG FILES ARE IN THE SAME FOLDER AS THE AUTOCLICKER YOU CAN ADD YOUR FILES TO HELP MAKE THE CLICKING FASTER OR EDITE THE CODE
+ MAKE SURE ALL THE PNG FILES ARE IN THE SAME FOLDER AS THE AUTOCLICKER YOU CAN ADD YOUR OWN FILES TO HELP MAKE THE CLICKING FASTER OR EDITE THE CODE
